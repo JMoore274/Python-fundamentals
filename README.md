@@ -1,6 +1,8 @@
 # Python Fundamentals
 
-Practice functions I wrote while completing **Foundations of Programming (Python)** at Western Governors University, as part of my B.S. in IT Management.
+A collection of Python functions demonstrating core programming skills: string processing, input cleanup, data validation, and working with lists and dictionaries. Each file includes test cases showing expected output.
+
+Built while pursuing my B.S. in IT Management at Western Governors University.
 
 ## Skills Demonstrated
 - String manipulation, cleaning, and slicing
@@ -20,5 +22,3 @@ Each file includes test lines at the bottom. Run any file with:
 ```
 python strings/count_vowels.py
 ```
-## Next
-More projects coming as I work through Python for IT Automation (WGU D522).
