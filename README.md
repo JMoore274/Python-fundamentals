@@ -17,7 +17,8 @@ Practice functions I wrote while completing **Foundations of Programming (Python
 
 ## How to Run
 Each file includes test lines at the bottom. Run any file with:
+```
 python strings/count_vowels.py
-
+```
 ## Next
 More projects coming as I work through Python for IT Automation (WGU D522).
